@@ -1,2 +1,2 @@
 # Mini-Project_1
-First project 
+baisc web page using HTML &CSS 
